@@ -1,3 +1,3 @@
 # CUSTOMER-CLUSTER-ANALYSIS
 
-This is na analysis carryong out k-means clustering on csutomer dataset
+This is an analysis of a customer dataset carried out using k-means clustering 
